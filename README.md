@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Robust%20Regression%20Engine&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Predicting%20House%20Prices%20with%20Regularized%20%26%20Ensemble%20Regression&descAlignY=55&descSize=18" width="100%"/>
-
 <a href="https://github.com/RENSEE-GAJIPARA">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=764ABA&center=true&vCenter=true&width=650&lines=Ridge+%7C+Lasso+%7C+Decision+Tree+%7C+Random+Forest+%7C+SVR;Cross-Validated+%7C+Regularized+%7C+Production-Ready;Deployed+as+an+Interactive+Streamlit+App" alt="Typing SVG" />
 </a>
@@ -15,7 +13,6 @@
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
 [![Model](https://img.shields.io/badge/Best%20Model-Random%20Forest-blueviolet?style=flat-square)](#-results)
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=RENSEE-GAJIPARA&repo=Robust-Regression-Engine&theme=tokyonight&hide_border=true" alt="Repo Card"/>
 
 </div>
 
@@ -56,10 +53,6 @@
 |---|---|
 | 🌐 **Streamlit Live App** | `<add your deployed Streamlit app URL here — e.g. https://your-app-name.streamlit.app>` |
 | 🎥 **Demo Video** | `<add your walkthrough video URL here — e.g. YouTube / Loom link>` |
-
-<div align="center">
-<sub>Replace the placeholders above once your app is deployed and your demo video is recorded.</sub>
-</div>
 
 <br/>
 
@@ -121,8 +114,8 @@ Evaluated across **K-Fold**, **Stratified K-Fold**, **LOOCV**, and **Time Series
 
 Random Forest reduces the train/test R² gap seen in a single Decision Tree, indicating stronger generalization through ensembling.
 
-![Decision Tree vs Random Forest](Images/4.Decision_Tree_vs_Random_Forest.png)
-</details>
+</details><img width="700" height="500" alt="4 Decision Tree vs Random Forest" src="https://github.com/user-attachments/assets/fa9c3325-be93-4469-a1d3-9614e50ee453" />
+
 
 <br/>
 
@@ -130,7 +123,8 @@ Random Forest reduces the train/test R² gap seen in a single Decision Tree, ind
 
 Six regressors were benchmarked on a held-out test set: **Ridge, Lasso, Decision Tree, Random Forest, SVR (Linear), SVR (RBF)**.
 
-![Model Performance Comparison](Images/5.Model_Performance_Comparison.png)
+<img width="1400" height="500" alt="5 Model Performance Comparison" src="https://github.com/user-attachments/assets/69d2e8bb-83da-4bca-90dc-fb250ab68799" />
+
 
 <div align="center">
 
