@@ -1,5 +1,7 @@
 <div align="center">
 
+# 🏠 Robust Regression Engine - House Price Prediction
+
 <a href="https://github.com/RENSEE-GAJIPARA">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=764ABA&center=true&vCenter=true&width=650&lines=Ridge+%7C+Lasso+%7C+Decision+Tree+%7C+Random+Forest+%7C+SVR;Cross-Validated+%7C+Regularized+%7C+Production-Ready;Deployed+as+an+Interactive+Streamlit+App" alt="Typing SVG" />
 </a>
