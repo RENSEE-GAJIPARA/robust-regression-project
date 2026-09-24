@@ -53,8 +53,7 @@
 
 | Resource | Link |
 |---|---|
-| 🌐 **Streamlit Live App** | `<add your deployed Streamlit app URL here — e.g. https://your-app-name.streamlit.app>` |
-| 🎥 **Demo Video** | `<add your walkthrough video URL here — e.g. YouTube / Loom link>` |
+| 🌐 **Streamlit Live App** |https://robust-regression--house-price-predictor.streamlit.app/|
 
 <br/>
 
