@@ -23,7 +23,7 @@
 ## 📖 Table of Contents
 
 - [Overview](#-overview)
-- [Live App & Demo](#-live-app--demo)
+- [Live App](#-live-app)
 - [Dataset](#-dataset)
 - [Methodology](#-methodology)
 - [Results](#-results)
@@ -43,7 +43,7 @@
 
 <br/>
 
-## 🚀 Live App & Demo
+## 🚀 Live App
 
 <div align="center">
 
@@ -181,6 +181,7 @@ Robust-Regression-Engine/
 │   ├── 3_Mean_R2_across_Cross-Validation_Strategies.png
 │   ├── 4_Decision_Tree_vs_Random_Forest.png
 │   └── 5_Model_Performance_Comparison.png
+├── Explanation_Video.mp4
 └── README.md
 ```
 
